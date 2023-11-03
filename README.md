@@ -1,0 +1,2 @@
+# UICollectionViewDiffableDataSource-And-UITableViewDiffableDataSource
+This is an expamle project for UITableViewDiffableDataSource and UICollectionViewDiffableDataSource. 
